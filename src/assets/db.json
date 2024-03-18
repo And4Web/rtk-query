@@ -1,0 +1,98 @@
+{
+    "posts": [
+        {
+            "title": "Post1",
+            "body": "Some random posters",
+            "userId": 23,
+            "id": 1
+        },
+        {
+            "title": "Post2",
+            "body": "Some 45tg random posters",
+            "userId": 25,
+            "id": 2
+        },
+        {
+            "title": "Post3",
+            "body": "Some random posters rt44",
+            "userId": 27,
+            "id": 3
+        },
+        {
+            "title": "Post4",
+            "body": "Some random 454 posters",
+            "userId": 33,
+            "id": 4
+        },
+        {
+            "title": "Post5",
+            "body": "Some 45a random posters",
+            "userId": 53,
+            "id": 5
+        }
+    ],
+    "comments": [
+        {
+            "title": "Comment1",
+            "body": "Some random commentss",
+            "userId": 23,
+            "id": 1
+        },
+        {
+            "title": "Comment2",
+            "body": "Some 45tg random pcomments",
+            "userId": 25,
+            "id": 2
+        },
+        {
+            "title": "Comment3",
+            "body": "Some random commentss rt44",
+            "userId": 27,
+            "id": 3
+        },
+        {
+            "title": "Comment4",
+            "body": "Some random 454 commentss",
+            "userId": 33,
+            "id": 4
+        },
+        {
+            "title": "Comment5",
+            "body": "Some 45a random commentss",
+            "userId": 53,
+            "id": 5
+        }
+    ],
+    "profiles": [
+        {
+            "title": "Profile1",
+            "body": "Some random profiles",
+            "userId": 23,
+            "id": 1
+        },
+        {
+            "title": "Profile2",
+            "body": "Some 45tg random profiles",
+            "userId": 25,
+            "id": 2
+        },
+        {
+            "title": "Profile3",
+            "body": "Some random profiles rt44",
+            "userId": 27,
+            "id": 3
+        },
+        {
+            "title": "Profile4",
+            "body": "Some random 454 profiles",
+            "userId": 33,
+            "id": 4
+        },
+        {
+            "title": "Profile5",
+            "body": "Some 45a random profiles",
+            "userId": 53,
+            "id": 5
+        }
+    ]
+}
